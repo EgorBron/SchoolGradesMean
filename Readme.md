@@ -6,9 +6,9 @@ Inspired by [version of my friend](https://github.com/SashaKilin/Middle-School-M
 
 ## Usage
 
-At first, [install .NET SDK 7](https://dot.net/install). Berify your installation by running `dotnet --version` in your terminal.
+At first, [install .NET SDK 7](https://dot.net/install). Verify your installation by running `dotnet --version` in your terminal.
 
-Then download this repository source code. If you prefer, use any Git client you prefer.
+Then download this repository source code. If you prefer, use any Git client.
 
 ### Windows Forms
 
