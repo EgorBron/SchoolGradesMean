@@ -32,10 +32,10 @@ Modern.Forms version have some visual issues like text and app window decoration
 
 ## ToDo list
 
-* Fix Modern.Forms version visual issues
-* Style app a bit
-* Add ability to use any grade system
-* Add tables input (`csv`, `xls`, etc.)
+* [ ] Fix Modern.Forms version visual issues
+* [ ] Style app a bit
+* [ ] Add ability to use any grade system
+* [ ] Add tables input (`csv`, `xls`, etc.)
 
 ## License
 
